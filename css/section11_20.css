@@ -1,0 +1,397 @@
+@media screen and (min-width:1401px) {
+
+  .HD {
+    font-family: 'Pretendard';
+    font-weight: 700;
+    font-size: 2.0833vw;
+    line-height: 115.8%;
+    line-height: 131%;
+  }
+  
+  
+  /* 섹션11 로고아이콘 */
+  .section11 { height: 100vh; background-color: white; position: relative;}
+  .menu10 {
+    position: absolute;
+    top: 5vh;
+  }
+  .logocontent {
+    position: absolute;
+    top: 22vh;
+  }
+  .logodesign {position: absolute; width: 15.6771vw; height: 35.4630vh;}
+  .logodesign > img {width: 100%;}
+  .logo1 {left: 17.2917vw;}
+  .logo2 {left: 42.5000vw;}
+  .logo3 {left: 69.8438vw;}
+  .arrow1 {position: absolute; left: 37.8125vw; top: 18vh;}
+  .arrow2 {position: absolute; left: 64.1667vw; top: 18vh;}
+  .EX07 {
+    position: absolute;
+    text-align: center;
+    top: 74vh;
+    left: 34vw;
+    color: black;
+    font-size: 1.2500vw;
+  }
+  
+  
+  /* 섹션11-(1)아이콘 */
+  .section11_2 {height: 125vh; background-color: white; position: relative;}
+  
+  #uiuxicon {position: absolute; top: 20vh; left: 41.5104vw; width: 12.2068vw; height: 18.6380vh;}
+  #uiuxicon > img {width: 100%;}
+  .EX08 {
+    color: black;
+    font-size: 1.2500vw;
+    position: absolute;
+    top: 46vh;
+    left: 27.2917vw;
+  }
+  .line {position: absolute; left: 49.8958vw; top: 59svh; height: 11.2037vh;}
+  .line > img {width: 100%;}
+  .iconcontent {
+    position: absolute;
+    width: 43.5417vw;
+    height: 14.0741vh;
+    top: 80vh;
+    left: 28vw;
+  }
+  .iconcontent > img {width: 100%;}
+  
+  
+  .section12 {
+    height: 55.3704vh;
+    background-color: #FFB155;
+    position: relative;
+    /* background-image: url('../images/section12.png'); background-size: cover; background-repeat: no-repeat; overflow: hidden; */
+  }
+  .starttext {position: absolute; left: 12.2917vw; top: 25vh; font-size: 3.4375vw; font-family: 'Jalnan'; color: white;}
+  .starttext > span {color: #5C14F4; font-family: 'Jalnan';}
+  .startphone {position: absolute; bottom: 0%; right: 15vw; width: 26.2500vw; height: 50.5556vh;}
+  .startphone > img {width: 100%;}
+  
+  
+  /* 섹션13 홈 */
+  .section13 {
+    height: 2000px;
+    background-color: white;
+    position: relative;
+  }
+  .Homearrow {
+    position: absolute;
+    /* width: 4.9479vw; */
+    height: 8.5185vh;
+    /* left: 47.4479vw; */
+    top: 20vh;
+    width: 70px;
+    margin-left: 50%;
+    left: -35px;
+  }
+  .Homearrow > img {width: 100%;}
+  .Homescreen {
+    position: absolute;
+    /* left: 38.2813vw; */
+    top: 40vh;
+    /* width: 23.3854vw; */
+    /* height: 131.6667vh; */
+    margin-left: 50%;
+    left: -220.5px;
+  }
+  .Homescreen > img {width: 100%;}
+  .num {width: 3.0729vw; height: 4vh;}
+  .num > img {width: 65%;}
+  .topleft {position: absolute; left: 18vw; top: 55vh;}
+  .middleright {position: absolute; left: 69.2708vw; top: 110vh;}
+  .bottomleft {position: absolute; left: 18vw; top: 150vh;}
+  .hometext {
+    font-size: 1.1458vw; 
+    font-weight: 500;
+    font-family: 'Pretendard';
+    color: #6F6F6F;
+  }
+  .hometext > span {color: #010101; font-weight: 800; font-size: 1.6667vw; font-family: 'Pretendard'; line-height: 250%;}
+  .homeleftline1 {position: absolute; left: 18vw; top: 10vh; width: 4.8958vw; height: 1.2037vh;}
+  .homeleftline2 {position: absolute; left: 18vw; top: 10vh; width: 4.8958vw; height: 1.2037vh;}
+  .homerightline {position: absolute; right: 18.5vw; top: 10vh; width: 4.8958vw; height: 1.2037vh;}
+  .homeleftline1 > img {width: 100%;}
+  .homeleftline2 > img {width: 100%;}
+  .homerightline > img {width: 100%;}
+  
+  
+  
+  /* 섹션14 로드맵 */
+  .section14 {
+    height: 95vh;
+    min-height: 900px;
+    background-image: url('../images/roadmapbg.png');
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color: #F8F8F8;
+  }
+  .menu13 {position: absolute; top: 10vh;}
+  /* .Roadmapbox {
+    position: absolute;
+    left: 53vw;
+    display: flex;
+    justify-content: space-between;
+    width: 60vw;
+    height: 1500px;
+  } */
+  .phone2 {
+    position: absolute;
+    left: 53.1771vw;
+    top: 18vh;
+    /* margin-right: 10vw; */
+    width: 18.2813vw;
+    min-width: 300px;
+    /* height: 65.0926vh; */
+  }
+  .phone2 > img {width: 100%;}
+  .Roadmap {
+    position: absolute;
+    left: 74.0625vw;
+    /* left: 40%; */
+    top: 20vh;
+    width: 16.5vw;
+    min-width: 270px;
+    /* height: 62.5926vh; */
+  }
+  .Roadmap > img {width: 100%;}
+  .hd02 {position: absolute; top: 26vh; left: 10.4167vw; color: #010101; font-weight: 700;}
+  .hd02 > span {color: #5C14F4; font-family: 'Pretendard';}
+  .EX10 {position: absolute; top: 40vh; color: #6F6F6F;}
+  .map_text {position: absolute; top: 68vh; left: 32vw; font-size: 1.0417vw; color: #6F6F6F;}
+  .roadmapline {position: absolute; top: 2vh; left: 16vw; width: 7.7083vw; height: 1.2037vh;}
+  .roadmapline > img {width: 100%;}
+  
+  
+  
+  /* 섹션15 커뮤니티(1) */
+  .section15 {
+    height: 82vh;
+    max-height: 790px;
+    min-height: 600px;
+    position: relative;
+    background-image: url('../images/section15.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .menu14 {position: absolute; top: 10vh; left: 10.4167vw;}
+  .phone3 {
+    position: absolute;
+    top: 19.6296vh;
+    /* bottom: 10vh; */
+    left: 27.9688vw;
+    width: 24.0625vw;
+    height: 54.0741vh;
+  }
+  .phone3 > img { width: 100%;}
+  .hd03 {position: absolute; top: 36vh; left: 55.3125vw;}
+  .hd03 > span {color: #5C14F4; font-family: 'Pretendard';}
+  .EX11 {position: absolute; top: 50vh; left: 55.3125vw;}
+  .Communitytitle {width: 7.5521vw; height: 4.4444vh;}
+  .Communitytitle > img { width: 100%;}
+  .Community1 {position: absolute; left: 55.3125vw; top: 62vh;}
+  
+  
+  
+  /* 섹션16 커뮤니티(2) */
+  .section16 {height: 100vh; background-color: #F8F8F8; position: relative;}
+  .phone4 {position: absolute; top: 10vh; left: 69.1667vw; width: 20.4167vw; height: 39.5313vh;}
+  .phone4 > img {width: 100%;}
+  .hd03_2 {position: absolute; top: 40vh; left: 10.4167vw;}
+  .EX11_2 {position: absolute; top: 53.7037vh; left: 10.4167vw;}
+  .hd03_2 > span {color: #5C14F4; font-family: 'Pretendard';}
+  .Communityline {position: absolute; top: 36.2vh; left: 66.5vw; width: 4.5vw; height: 1.2037vh;}
+  .Communityline > img {width: 100%;}
+  .phone5 {position: absolute; top: 28vh; left: 43.5vw; width: 23.9583vw; height: 49.9074vh;}
+  .phone5 > img {width: 100%;}
+  .Community2 {position: absolute; left: 10.4167vw; top: 65vh;}
+  
+  
+  
+  /* 섹션17 인포메이션 */
+  .section17 {
+    height: 142.4074vh;
+    /* background-image: url("../images/section17.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+    background-color: white;
+    position: relative;
+    overflow: hidden;
+  }
+  .menu15 {position: absolute; top: 12vh;}
+  .hd04 {position: absolute; left: 10.4167vw; top: 24vh; text-align: center; left: 34.2708vw;}
+  .hd04 > span {color: #5C14F4; font-family: 'Pretendard';}
+  .Information {position: absolute; top: 44vh; left: 6vw; width: 93.9583vw; height: 91.0185vh;}
+  #screen1 {position: absolute; width: 19.0104vw; height: 49.9074vh; left: 16vw; top: 11vh;}
+  #screen1 > img {width: 100%;}
+  #screen2 {position: absolute; width: 19.0104vw; height: 49.9074vh; left: 54vw; top: 11vh;}
+  #screen2 > img {width: 100%;}
+  #Informationphone {position: absolute; width: 20.9375vw; height: 74.7222vh; margin-left: 50%; left: -13vw;}
+  #Informationphone > img {width: 100%;}
+  
+  /* 섹션18 케어 */
+  .section18 {
+    height: 100vh;
+    /* background-image: url("../images/section18bg.png"); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-color: #F8F8F8;
+  }
+  .menu16 {position: absolute; top: 15vh; left: 10.4167vw;}
+  .phone6 {position: absolute; right: 28vw; top: 15vh; width: 18.9583vw; height: 68.9815vh;}
+  .phone6 > img {width: 100%;}
+  .phone7 {position: absolute; right: 9.1146vw; top: 15vh; width: 18.8021vw; height: 68.9815vh;}
+  .phone7 > img {width: 100%;}
+  .hd05 {position: absolute; left: 10.4167vw; top: 40vh;}
+  .careline {position: absolute; top: 52.3vh; right: 45.4vw; width: 44.1667vw; height: 0.1852vh;}
+  .careline > img {width: 100%;}
+  .hd05 > span {color: #5C14F4; font-family: 'Pretendard';}
+  .EX12 {position: absolute; top: 55vh;}
+  
+  /* 섹션19 비디오 */
+  .section19 {height: 120vh; background-color: white; position: relative; }
+  .menu17 {position: absolute; top: 11vh;}
+  .videobox {position: absolute; top: 25vh; left: 10.4167vw;
+    width: 79.1667vw; height: 79.1667vh;
+    /* width: 70%; height: 71.4%; */
+    /* width: 1520px; height: 855px; */
+  }
+
+
+    /* 섹션 다운로드 페이지 */
+    .section19_2 {
+      height: 100vh;
+      max-height: 929px;
+      min-height: 800px;
+      overflow: hidden;
+      background-image: url("../images/section19_2bg.png");
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      position: relative;
+    }
+    .hd06 {
+      position: absolute;
+      font-family: 'Jalnan';
+      left: 10.4167vw;
+      top: 21vh;
+      color: white;
+      font-size: 3.3854vw;
+    }
+    .hd06 > span {
+      font-family: 'Jalnan';
+      color: #FFB155;
+    }
+    .none {display: none;}
+    .EX13 {
+      position: absolute;
+      top: 42vh;
+      color: #FFB155;
+    }
+
+    .AppStore {
+      position: absolute;
+      width: 10.9375vw;
+      top: 62vh;
+      left: 10.4167vw;
+    }
+    .AppStore > img {width: 100%;}
+    .GooglePlay {
+      position: absolute;
+      width: 10.9375vw;
+      top: 62vh;
+      left: 23vw;
+    }
+    .GooglePlay > img {width: 100%;}
+    .phone8 {
+      position: absolute;
+      width: 22.4479vw;
+      right: 13.1250vw;
+      top: 70px;
+    }
+    .phone8 > img {width: 100%;}
+
+
+
+  
+  /* 섹션20 목업 */
+  .section20 {
+    height: 60.1852vh;
+    background-image: url("../images/section20.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: brightness(80%);
+  }
+  
+  
+  /* 푸터 */
+  footer {
+    height: 65vh;
+    position: relative;
+    background-color: #010101;
+    clear: both;
+  }
+  .menu18 {
+    position: absolute;
+    top: 7.5vh;
+    color: white;
+    left: 11vw;
+  }
+  .footerline {position: absolute; top: 9.5vh; left: 17vw; width: 48.4896vw;}
+  .footerline > img {width: 100%;}
+  .copyright {
+    font-size: 1.0417vw;
+    font-weight: 100;
+    position: absolute;
+    top: 8.2vh;
+    left: 67.0833vw;
+    color: white;
+  }
+  .profilebox {position: absolute; top: 17vh;}
+  .profile1 {left: 16.9271vw; width: 10.4688vw; height: 19.0741vh;}
+  .profile1 > img {width: 100%;}
+  .profile2 {left: 44.6354vw; width: 10.5208vw; height: 20.6481vh; top: 16vh;}
+  .profile2 > img {width: 100%;}
+  .profile3 {left: 72.2396vw; width: 10.5208vw; height: 18.6111vh;}
+  .profile3 > img {width: 100%;}
+  
+  .profilename {
+    font-size: 1.0417vw;
+    font-weight: 500;
+    position: absolute;
+    top: 44vh;
+    color: #BDBDBD;
+    list-style-type: none;
+  }
+  .profilename > li {display: inline-block;}
+  .profilebox1 {left: 17.8646vw;}
+  .profilebox2 {left: 45.5729vw;}
+  .profilebox3 {left: 72.1354vw;}
+  
+  #Minseok{font-size: 1.4583vw; color: white; padding-right: 0.7813vw;}
+  #Seoyun{font-size: 1.4583vw; color: white; padding-right: 0.7813vw;}
+  #Jeongeun{font-size: 1.4583vw; color: white; padding-right: 0.7813vw;}
+  
+  .profileIntroduce {
+    font-weight: 200;
+    font-size: 1.0417vw;
+    line-height: 102.3%;
+    color: #BDBDBD;
+    position: absolute;
+    top: 52vh;
+  }
+  .Introduce1 {left: 16.5vw;}
+  .Introduce2 {left: 44.6vw;}
+  .Introduce3 {left: 72vw;}
+}
